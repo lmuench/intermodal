@@ -1,6 +1,7 @@
-# intermodal
+# Intermodal
 
-## Compile & Run in Linux container
+### Commands
+Compile & run in Debian container
 ```
 docker build -t intermodal . && docker run intermodal
 ```
